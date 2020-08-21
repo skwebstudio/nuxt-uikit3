@@ -1,4 +1,12 @@
-# samk
+# NuxtJS - UIKIT 3 starter
+
+A clean boilerplate for **NuxtJS** and **UIKIT 3**
+
+Please refere to:
+
+**NuxtJS documentation here**: https://nuxtjs.org/guides/get-started/installation
+
+**UIKIT 3 documentation here:** https://getuikit.com/docs/introduction
 
 ## Build Setup
 
